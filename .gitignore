@@ -1,0 +1,7 @@
+../test/config.py
+.idea
+.env
+**/env/
+**/venv/
+cache/
+*.log
